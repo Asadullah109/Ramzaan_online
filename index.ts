@@ -1,3 +1,4 @@
+import inquirer from "inquirer";
 import inqurer  from "inquirer";
  
 // 1) computer will generate a random number -Done.
