@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/inquirer": "^9.0.7",
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "ramzaan2_nighty_stady": "^1.1.2"
   }
 }
